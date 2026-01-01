@@ -1,0 +1,57 @@
+# חוות הגליל — Generative Engine Optimization Map
+
+> A תיירות וחוויות משפחתיות business.
+
+---
+
+## Pages
+
+### Home
+https://-50b569af.zappy5.app
+חוות הגליל - חוות ליטוף חיות בגליל עם כבשים, קנגורו וחיות נוספות. חוויה משפחתית בלתי נשכחת לילדים ומבוגרים בצפון הארץ.
+
+### Experiences
+https://-50b569af.zappy5.app/experiences
+גלו את מגוון החוויות המיוחדות בחוות הגליל - ליטוף כבשים וקנגורו, סיורים מודרכים, ימי הולדת וארועים משפחתיים בלב הטבע הגלילי.
+
+### About
+https://-50b569af.zappy5.app/about
+הכירו את חוות הגליל - חוות משפחתית בלב הצפון המציעה חוויות ייחודיות עם כבשים, קנגורו וחיות נוספות. הסיפור, הערכים והצוות שלנו.
+
+### Contact
+https://-50b569af.zappy5.app/contact
+צרו קשר עם חוות הגליל לתיאום ביקור, שאלות או הזמנת אירועים. נשמח לעזור לכם לתכנן את החוויה המושלמת שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-50b569af.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-50b569af.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-50b569af.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חוות הגליל
+חוות הגליל is a business in the תיירות וחוויות משפחתיות industry.
+
+## Target Audience
+משפחות ואוהבי חיות
+
+## Industry
+תיירות וחוויות משפחתיות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-50b569af.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-50b569af.zappy5.app/robots.txt
